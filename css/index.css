@@ -1,0 +1,94 @@
+.main 
+{
+	border-bottom: 6px solid #f19000;
+}
+
+.navbar-light .navbar-nav .active>.nav-link
+{
+	color:#e20427;
+}
+.navbar-light .navbar-nav .nav-link
+{
+	color:#e20427;
+}
+ul.head-menu li a 
+{
+	
+	font-family: Rubik Bold;
+	font-size:15px;
+}
+
+/*=================================================*/
+
+#slider 
+{
+	width: 100%;
+	background: #b60d80;
+	height: 435px;
+	margin:20px 0px 50px 0px;
+	position: relative;
+}
+
+#content 
+{
+	width:75%;
+	margin:0 auto;
+	background: red;
+}
+
+#content img 
+{
+	width: 100%;
+	height: 435px;
+}
+
+#left
+{
+	height: 435px;
+	width: 180px;
+	background: url("../figure.png");
+	position: absolute;
+	top:0px;
+	left:100px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#right 
+{
+	height: 435px;
+	position: absolute;
+	top:0;
+	background: url("../lines1.png");
+	right:169px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:150px;
+}
+
+/*================================== */
+
+.news-content 
+{
+	width: 70%;
+	margin:0 auto;
+	height: 300px;
+}
+
+.news-data
+{
+	background: #f0f1f1;
+}
+
+#news p 
+{
+	font-size:36px;
+	font-family: Montsserat Bold;
+	text-align: center;
+	color:#e20427;
+}
+
+.news-content ul li img 
+{
+	width:220px;
+}
