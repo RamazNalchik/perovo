@@ -11,9 +11,8 @@
 				</h1>
 			</div>
 
-			<div class="clearfix"></div>
 
-			<div class="col-lg-3">
+			<div class="col-lg-6 col-md-6 col-xl-3">
 				<div class="sale-block">
 					<div class="sale-top block1">
 						<p>Сезонная <br> распродажа</p>
@@ -26,7 +25,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-3">
+			<div class="col-lg-6 col-md-6 col-xl-3">
 				<div class="sale-block">
 					<div class="sale-top block2">
 						<img src="img/foto-06.jpg" alt="img">
@@ -39,18 +38,92 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="col-lg-3">
 
-		</div>
-		<div class="col-lg-3">
-			
-		</div>
+			<div class="col-lg-6 col-md-6 col-xl-3">
+				<div class="sale-block">
+					<div class="sale-top block3">
+
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-xl-3">
+				<div class="sale-block">
+					<div class="sale-top">
+						<img src="../img/foto-07.jpg" alt="img" height="160px">
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-xl-3">
+				<div class="sale-block">
+					<div class="sale-top block5">
+						
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-xl-3">
+				<div class="sale-block">
+					<div class="sale-top block3">
+						
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-xl-3">
+				<div class="sale-block">
+					<div class="sale-top block7">
+
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-xl-3">
+				<div class="sale-block">
+					<div class="sale-top block8">
+						
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
 
 
-	</div><!-- end row -->
+		</div><!-- end row -->
 
-</div><!-- end container -->
+	</div><!-- end container -->
 
 </div> <!-- end sale -->
 
