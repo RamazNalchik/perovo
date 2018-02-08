@@ -27,21 +27,31 @@
 				</div>
 			</div>
 			<div class="col-lg-3">
-				
+				<div class="sale-block">
+					<div class="sale-top block2">
+						<img src="img/foto-06.jpg" alt="img">
+					</div>
+					<div class="sale-bottom">
+						<p>
+							<a href="#">Название бренда</a>
+							<a href="#"><span>категория</span></a>
+						</p>
+					</div>
 				</div>
 			</div>
-			<div class="col-lg-3">
-	
-			</div>
-			<div class="col-lg-3">
-			
-			</div>
-			
+		</div>
+		<div class="col-lg-3">
 
-		</div><!-- end row -->
+		</div>
+		<div class="col-lg-3">
+			
+		</div>
 
-	</div><!-- end container -->
-	
+
+	</div><!-- end row -->
+
+</div><!-- end container -->
+
 </div> <!-- end sale -->
 
 

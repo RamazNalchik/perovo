@@ -54,10 +54,10 @@
 	      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
 	    </form>
 	    _-->
-<!-- 	  </div>
+	  </div>
 	</div>
 </nav>
-</div> -->
+</div>
 <div id="slider">
 	<div id="content">
 		<img src="foto-01.jpg">
