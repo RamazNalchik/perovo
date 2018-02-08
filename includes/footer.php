@@ -149,6 +149,30 @@
 					<a href="#">Контакты</a>
 				</div>
 
+				<ul class="footer-top-nuv nuv2">
+					<li><a href="#">Режим работы</a></li>
+					<li><a href="#">Схема тажей</a></li>
+					<li><a href="#">Как добраться</a></li>
+					<li><a href="#">Вакансии</a></li>
+					<li><a href="#">О трк</a></li>
+					<li><a href="#">Правила трк</a></li>
+					<li><a href="#">Контакты</a></li>
+				</ul>
+
+				<ul class="footer-top-nuv nav3">
+					<li><a href="#">Акции и новости</a></li>
+					<li><a href="#">Мероприятия</a></li>
+					<li><a href="#">Галерея</a></li>
+					<li><a href="#">Анкета</a></li>
+					<li><a href="#">Обратная связь</a></li>
+					<li><a href="#">Подписка</a></li>
+				</ul>
+
+				<ul class="footer-top-nuv">
+					<li><a href="#">Аренда торговых площадей</a></li>
+					<li><a href="#">Рекламные возможности</a></li>
+				</ul>
+
 			</div>
 			<div class="col-lg-3">
 				
@@ -157,7 +181,10 @@
 				</div>
 
 				<p class="footer-top-street">
-					Г.
+					Г. Москва, <br>
+					Ул. Перовская, д. 61а <br>
+					Trkperovomall@mail.ru <br>
+					+7(495) 650-30-35
 				</p>
 
 			</div>
