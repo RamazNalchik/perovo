@@ -156,6 +156,10 @@
 					<img src="img/footer-logo.png" alt="img">
 				</div>
 
+				<p class="footer-top-street">
+					Г.
+				</p>
+
 			</div>
 
 		</div><!-- end row -->
@@ -191,4 +195,4 @@
 
 	</div><!-- end container -->
 
-</div><!-- end footer-bottom
+</div><!-- end footer-bottom -->
