@@ -4,8 +4,10 @@
 <head>
 	<meta charset="utf-8">
 	<title>Main</title>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap-reboot.min.css">
+<link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/index.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 <div class="main">
@@ -78,12 +80,10 @@
 		</div>
 	</div>
 </div>
-
+<?php 
+include('includes/footer.php');
+ ?>
 </body>
-<script
-  src="http://code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"
- </script>
- <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+<script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+ <script type="text/javascript" src="libs/bootstrap/js/bootstrap.bundle.min.js"></script>
 </html>
