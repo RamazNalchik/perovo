@@ -1,0 +1,189 @@
+@font: 'Rubik', sans-serif;
+@font2: 'Montserrat', sans-serif;
+
+
+
+
+
+/*Sale
+======================================================*/
+.sale{
+	font-family: @font;
+	padding: 70px 0 50px 0;
+}
+
+.caption{
+	color: #E20427;
+	font-weight: 700;
+	text-align: center;
+	font-size: 36px;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+
+.sale-block{
+	max-width: 320px;
+	margin: 0 auto;
+	text-align: center;
+
+	.sale-top{
+		
+		color:#fff;
+		height:200px;
+		p{
+			padding-top: 50px;
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+	}
+	.block1{
+		background: #E20427;
+	}
+	.block2{
+		img{
+			max-width:320px; 
+		}
+	}
+
+	.sale-bottom{
+		background: #E5E6E7;
+		font-family: @font2;
+		padding: 20px 0 1px 0;
+		margin-top: -60px;
+		position: relative;
+		a{
+			color:#000;
+			font-weight: 600;
+			font-size: 20px;
+			display: block;
+
+			&:hover{
+				text-decoration: none;
+			}
+
+			span{
+				font-size: 13px;
+			}
+		}
+	}
+}
+
+
+
+
+
+
+/*Footer
+======================================================*/
+
+/*Footer-top*/
+.footer-top{
+	font-family: @font;
+	background: #B60D80;
+	padding: 50px 0 70px 0;
+	position: relative;
+
+	&-logo{
+
+	}
+
+	&-links{
+
+		a{
+			display: inline-block;
+			color:#fff;	
+			font-weight: 700;
+			text-transform: uppercase;
+			margin-left: 15px;
+			font-size: 15px;
+
+			&:hover{
+				text-decoration: none;
+			}
+
+			&:first-child{
+				margin-left: 0;
+			}
+		}
+		
+	}
+
+	&::after{
+		content:"";
+		background: #F19000;
+		height: 6px;
+		width: 100%;
+		display: block;
+		position: absolute;
+		bottom: 8px;
+		left:0;
+	}
+
+}
+
+
+/*Footer-bottom*/
+.footer-bottom{
+	
+	@media only screen and (min-width : 992px) {
+		background: url("../img/footer-liner.png") no-repeat 100% -30px #E20427;
+		text-align: left;
+	}
+	
+	text-align: center;
+	background: #E20427;
+	font-family: @font;
+	color:#fff;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 20px 0;
+	line-height: 20px;
+
+
+	@media only screen and (min-width : 992px) {
+		padding: 40px 0;
+	}
+	
+
+	&-links{
+
+		max-width: 320px;
+		margin: 0 auto;
+
+		@media only screen and (min-width : 992px) {
+			max-width: unset;
+		}
+
+		a{
+			text-transform: uppercase;
+			font-weight: 700;
+			color:#fff;
+			display: block;
+			margin-bottom: 10px;
+
+			@media only screen and (min-width : 992px) {
+				display: inline-block;
+				margin-left: 30px;
+				margin-bottom: 0px;
+			}
+			
+
+			&:hover{
+				text-decoration: none;
+			}
+
+			&:first-child{
+				margin-left: 0;
+			}
+		}
+	}
+
+	&-registered{
+		display: inline-block;
+		margin-top: 20px;
+
+		@media only screen and (min-width : 992px) {
+			margin-top: 0px;		
+		}
+	}
+}

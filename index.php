@@ -6,6 +6,8 @@
 	<title>Main</title>
 <link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap-reboot.min.css">
 <link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap-grid.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900|Rubik:400,500,700,900" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
@@ -52,10 +54,10 @@
 	      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
 	    </form>
 	    _-->
-	  </div>
+<!-- 	  </div>
 	</div>
 </nav>
-</div>
+</div> -->
 <div id="slider">
 	<div id="content">
 		<img src="foto-01.jpg">
