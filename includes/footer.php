@@ -1,7 +1,3 @@
-<form action="" class="search">
-	<input type="search" class="search__input"><input type="button" name="" class="search__button">
-</form>
-
 <!-- SALE -->
 <div class="sale">
 
