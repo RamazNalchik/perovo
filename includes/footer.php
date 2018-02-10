@@ -143,7 +143,7 @@
 				<ul class="footer-top-links">
 					<li>
 						<a href="#">О нас</a>
-						<ul class="footer-top-nuv nuv2">
+						<ul class="footer-top-nuv">
 							<li><a href="#">Режим работы</a></li>
 							<li><a href="#">Схема тажей</a></li>
 							<li><a href="#">Как добраться</a></li>
@@ -161,7 +161,7 @@
 					</li>
 					<li>
 						<a href="#">Покупателям</a>
-						<ul class="footer-top-nuv nav3">
+						<ul class="footer-top-nuv ">
 							<li><a href="#">Акции и новости</a></li>
 							<li><a href="#">Мероприятия</a></li>
 							<li><a href="#">Галерея</a></li>
